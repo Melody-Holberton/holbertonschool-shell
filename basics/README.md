@@ -9,3 +9,4 @@
 -seven added tmp directory
 -eight moved betty to tmp direc
 -nine removes betty from the dir
+-ten removes the dir better was in
