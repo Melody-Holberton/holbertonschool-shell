@@ -5,3 +5,4 @@
 -third sends user to home directory
 -fourth lists files in long format
 -fith lists every file, including hidden ones
+-six added to sort numerically
