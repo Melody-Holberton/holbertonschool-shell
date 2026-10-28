@@ -8,3 +8,4 @@
 -six added to sort numerically
 -seven added tmp directory
 -eight moved betty to tmp direc
+-nine removes betty from the dir
