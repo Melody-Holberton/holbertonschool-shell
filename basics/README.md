@@ -1,2 +1,4 @@
-script 0- prints the working directory
-script 1- lists whats in the directory
+# v0.1.0
+
+-First prints the working directory
+-Second prints list
