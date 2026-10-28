@@ -10,4 +10,5 @@
 -eight moved betty to tmp direc
 -nine removes betty from the dir
 -ten removes the dir better was in
--eleven goes changes working dir to previous one
+-eleven  changes working dir to previous one
+-twelve lists all files in the current dir, parent dir and then the boot dir in that order
