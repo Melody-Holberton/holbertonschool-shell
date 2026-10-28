@@ -2,3 +2,4 @@
 
 -First prints the working directory
 -Second prints list
+-third sends user to home directory
