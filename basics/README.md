@@ -6,3 +6,4 @@
 -fourth lists files in long format
 -fith lists every file, including hidden ones
 -six added to sort numerically
+-seven added tmp directory
