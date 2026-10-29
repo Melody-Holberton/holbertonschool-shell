@@ -1,0 +1,1 @@
+-first made a script that switches current user to better
