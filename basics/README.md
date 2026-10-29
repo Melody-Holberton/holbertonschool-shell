@@ -15,4 +15,5 @@
 -thirteen prints what type of file thats listed at the location
 -fourteen makes a symbolic link link to __ls__
 -fithteen made a script that coppies all html files from current working dir to parent dir
--sixteen script moves all files begining with a uppercase letter to tmp dir_
+-sixteen script moves all files begining with a uppercase letter to tmp dir
+-seventeen script removes all files that end in ~_
