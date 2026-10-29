@@ -16,4 +16,5 @@
 -fourteen makes a symbolic link link to __ls__
 -fithteen made a script that coppies all html files from current working dir to parent dir
 -sixteen script moves all files begining with a uppercase letter to tmp dir
--seventeen script removes all files that end in ~_
+-seventeen script removes all files that end in ~
+-eighteen script makes the dirs needed for the task_
