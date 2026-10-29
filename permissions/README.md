@@ -1,1 +1,2 @@
 -first made a script that switches current user to better
+-second prints the effective username of the user
