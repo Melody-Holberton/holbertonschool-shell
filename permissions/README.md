@@ -3,3 +3,5 @@
 -third prints the users groups
 -forth changes owner of hello to betty
 -fith script makes empty files called hello
+-sixth gives execute permission to hello file
+-seventh gives diffrent permissions to hello file depending on if your the owner or not
