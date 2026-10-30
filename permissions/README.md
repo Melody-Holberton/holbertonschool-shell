@@ -1,4 +1,4 @@
--first made a script that switches current user to better
+-first made a script that switches current user to betty
 -second prints the effective username of the user
 -third prints the users groups
 -forth changes owner of hello to betty
