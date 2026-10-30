@@ -2,3 +2,4 @@
 -second prints the effective username of the user
 -third prints the users groups
 -forth changes owner of hello to betty
+-fith script makes empty files called hello
