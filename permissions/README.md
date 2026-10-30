@@ -5,3 +5,6 @@
 -fith script makes empty files called hello
 -sixth gives execute permission to hello file
 -seventh gives diffrent permissions to hello file depending on if your the owner or not
+-eighth gives permissions to everyone
+-ninth gives owner and group no perms, while other users all perms
+-tenth gives owner all perms, group reading and execution and others writing and execution
