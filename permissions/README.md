@@ -1,4 +1,3 @@
 -first made a script that switches current user to better
 -second prints the effective username of the user
 -third prints the users groups
--forth changes owner of the file hello to betty
